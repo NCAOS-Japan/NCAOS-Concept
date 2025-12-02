@@ -3,6 +3,19 @@
 
 ---
 
+## 📄 Reference Paper
+Zenodo (DOI):  
+https://zenodo.org/records/17780260  
+
+---
+
+## 🤝 Contact for PoC / Licensing
+For PoC discussions, NDA-based technical briefing, or enterprise licensing:
+
+**Email: ncaos_japan@proton.me  
+
+---
+
 ## 📌 What is NCAOS?
 NCAOS (No-Code Adaptive Operating Shell) is a **non-invasive external layer** that stabilizes AI systems without modifying their internal models.  
 It functions as an **outer supervisory shell**, improving system-level consistency, stability, and safety.
@@ -43,20 +56,7 @@ NCAOS upgrades *existing AI* into a safer, more stable system.
 - Financial risk models  
 - Guardrails for Generative AI  
 - Enterprise AI assistant stabilization  
-- Safety-critical system reinforcement  
-
----
-
-## 📄 Reference Paper
-Zenodo (DOI):  
-https://zenodo.org/records/17780260  
-
----
-
-## 🤝 Contact for PoC / Licensing
-For PoC discussions, NDA-based technical briefing, or enterprise licensing:
-
-**Email: ncaos_japan@proton.me**
+- Safety-critical system reinforcement 
 
 ---
 
