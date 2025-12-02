@@ -61,5 +61,5 @@ For PoC discussions, NDA-based technical briefing, or enterprise licensing:
 ---
 
 ## 🔒 Implementation Note
-Internal architecture (Child, Core layers) is **completely confidential**.  
-Only the high-level external concept is shared here for enterprise evaluation.
+Internal architecture of the safety shell is completely confidential.
+Only high-level external concepts are shared here for enterprise evaluation. 
