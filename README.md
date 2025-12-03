@@ -65,6 +65,17 @@ NCAOS upgrades existing AI systems into a **safer, more predictable platform**.
 
 ---
 
+## 📝 Patent Status
+This concept is **formally filed** with the Japan Patent Office and is currently **Patent Pending**.
+
+- **Filing date:** 2025-11-26  
+- **Application Type:** Japanese Patent (JP)  
+- **Status:** Pending examination  
+- **Priority:** Secure and established  
+The internal architecture and technical mechanisms described under NCAOS are legally protected under this filing.
+
+---
+
 ## 🔒 Implementation Note (Confidentiality Policy)
 The internal architecture of the **safety shell** is fully confidential.  
 This includes internal:
