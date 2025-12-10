@@ -91,3 +91,12 @@ All detailed implementations require **NDA / EULA**.
 
 ## 📘 License
 Creative Commons Attribution 4.0 International (CC-BY 4.0)
+
+---
+
+## 🔧 Recent Updates (Dec 2025)
+- Added minor clarifications to the conceptual description.
+- Improved wording around the external safety-shell behavior.
+- Preparing additional documentation for enterprise evaluation.
+
+**Keywords:** AI safety · external shell · adaptive governance · NCAOS
